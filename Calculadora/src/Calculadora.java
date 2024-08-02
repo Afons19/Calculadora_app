@@ -1,11 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-
 /**
- *
- * @author PC
+ * @author Afonso Aurélio
+ * @version 0.1
+ * @date 12/21/23
  */
 public class Calculadora extends javax.swing.JFrame {
 
